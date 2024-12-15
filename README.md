@@ -15,9 +15,9 @@ You need a recent version of **REAPER** (v7.25 or later), from http://reaper.fm/
 > [!IMPORTANT]
 > Some settings may prevent the GameMaster to function correctly. Do check in the "REAPER Preferences" that in "Audio", both "Close audio device when stopped..." options are *not* set, and in "Audio > Playback" that "Run FX when stopped" is set.
 
-In the https://github.com/jack461/CMGS directory, click on the green "Code" button, and select "Download ZIP". If necessary, click "Save" to save "CMGS-main.zip" in your downloads folder. Unzip the file. You now have in "CMGS-main" the latest version of the software. The folder can be kept in any place it is convenient for you (home, Desktop, Music, etc.), but don't install it in the REAPER Resource directory.
+In the [CMGS](https://github.com/jack461/CMGS) directory, click on the green "Code" button, and select "Download ZIP". If necessary, click "Save" to save "CMGS-main.zip" in your downloads folder. Unzip the file. You now have in "CMGS-main" the latest version of the software. The folder can be kept in any place it is convenient for you (home, Desktop, Music, etc.), but don't install it in the REAPER Resource directory.
 
-You may whish to get the first available tutorial, from https://github.com/jack461/CMGS-Tutorials. Here also, click on the green "Code" button, and select "Download ZIP". It is a much larger file, since it contains a whole project, with about 1 Go of samples. Unzip it, and follow the "README.md" explanations to install it.
+You may whish to get the first available tutorial, from [CMGS-Tutorials](https://github.com/jack461/CMGS-Tutorials). Here also, click on the green "Code" button, and select "Download ZIP". It is a much larger file, since it contains a whole project, with about 1 Go of samples. Unzip it, and follow the "README.md" explanations to install it.
 
 
 # Le "Concrete Music Gran Studio"
@@ -37,6 +37,6 @@ Vous avez besoin d'une version récente de **REAPER** (v7.25 ou ultérieure), t�
 > [!IMPORTANT]
 > Certains paramètres peuvent empêcher le GameMaster de fonctionner correctement. Vérifiez dans les "Préférences REAPER" que dans "Audio", les deux options "Fermer le périphérique audio à l'arrêt..." ne sont *pas* définies, et dans "Audio > Lecture" que "Exécuter les effets à l'arrêt" est défini.
 
-Dans le répertoire https://github.com/jack461/CMGS, cliquez sur le bouton vert "Code", et sélectionnez "Télécharger le ZIP". Si nécessaire, cliquez sur "Enregistrer" pour enregistrer "CMGS-main.zip" dans votre dossier de téléchargements. Décompressez le fichier. Vous avez maintenant dans "CMGS-main" la dernière version du logiciel. Le dossier peut être conservé à l'endroit qui vous convient (maison, bureau, musique, etc.), mais ne l'installez pas dans le répertoire des ressources de REAPER.
+Dans le répertoire [CMGS](https://github.com/jack461/CMGS), cliquez sur le bouton vert "Code", et sélectionnez "Télécharger le ZIP". Si nécessaire, cliquez sur "Enregistrer" pour enregistrer "CMGS-main.zip" dans votre dossier de téléchargements. Décompressez le fichier. Vous avez maintenant dans "CMGS-main" la dernière version du logiciel. Le dossier peut être conservé à l'endroit qui vous convient (maison, bureau, musique, etc.), mais ne l'installez pas dans le répertoire des ressources de REAPER.
 
-Vous pouvez télécharger le premier tutoriel disponible sur https://github.com/jack461/CMGS-Tutorials. Ici aussi, cliquez sur le bouton vert "Code" et sélectionnez "Télécharger le ZIP". Il s'agit d'un fichier beaucoup plus volumineux, car il contient un projet complet, avec environ 1 Go d'échantillons. Décompressez-le et suivez les explications du "README.md" pour l'installer.
+Vous pouvez télécharger le premier tutoriel disponible dans [CMGS-Tutorials](https://github.com/jack461/CMGS-Tutorials). Ici aussi, cliquez sur le bouton vert "Code" et sélectionnez "Télécharger le ZIP". Il s'agit d'un fichier beaucoup plus volumineux, car il contient un projet complet, avec environ 1 Go d'échantillons. Décompressez-le et suivez les explications du "README.md" pour l'installer.
